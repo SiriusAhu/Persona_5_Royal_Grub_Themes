@@ -1,6 +1,12 @@
 # Persona 5 Royal Grub Themes
 
-This is a series of Persona 5 Royal themes for grub2, which is referenced from [StarRailGrubThemes](https://github.com/voidlhf/StarRailGrubThemes) & [starfield](https://github.com/endlessm/grub/tree/master/themes/starfield). (I was motivated by the former one :wink:)
+This is a series of Persona 5 Royal themes for grub2, which contains 10 themes (10 main characters).
+
+My work is just designed a boot menu to the original `All Out Attack` images.
+
+If you feel these themes are good, it's not my credit, please thank the `P5R` team. :tada:
+
+I referenced [StarRailGrubThemes](https://github.com/voidlhf/StarRailGrubThemes) & [starfield](https://github.com/endlessm/grub/tree/master/themes/starfield). Their work motivated me to make these themes.
 
 ![Joker-theme](./preview/joker.png)
 
@@ -16,7 +22,7 @@ The `tar.gz` files are also published in the `release` page.
 
 Just run `install.py` and choose the theme you want to install.
 
-> Note: `sudo` is required so that the script can `copy` files to `/boot/grub/themes`, and it can `edit` `/etc/default/grub` to set the theme.
+> :warning:Note: `sudo` is required so that the script can `copy` files to `/boot/grub/themes`, and it can `edit` `/etc/default/grub` to set the theme.
 
 ```bash
 sudo python install.py
@@ -49,4 +55,4 @@ Just download the `tar.gz` file and import it in grub-customizer.
 
 > The color of icons were changed by a program written by myself which adjusts the `hue` so that they are in "red" style.
 
-If you are the owner of the images and you don't want to use them in this project, please [contact me](mailto:SiriusLLLUUU@outlook.com) and I will remove them as soon as possible.
+If you are the owner of the images and you don't want to use them in this project, please [:mailbox_with_mail:contact me](mailto:SiriusLLLUUU@outlook.com) and I will remove them as soon as possible. 
