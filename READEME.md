@@ -1,7 +1,9 @@
 # Persona 5 Royal Grub Themes
 ---
 
-This is a series of Persona 5 Royal themes for grub2, which is referenced from [StarRailGrubThemes](https://github.com/voidlhf/StarRailGrubThemes) & [starfield](https://github.com/endlessm/grub/tree/master/themes/starfield).
+This is a series of Persona 5 Royal themes for grub2, which is referenced from [StarRailGrubThemes](https://github.com/voidlhf/StarRailGrubThemes) & [starfield](https://github.com/endlessm/grub/tree/master/themes/starfield). (I was motivated by the former one :wink:)
+
+![Joker-theme](./preview/joker.png)
 
 # Installation
 ---
@@ -12,7 +14,7 @@ You can install the themes by `scripts`, `grub-customizer` or `manually`.
 
 The `tar.gz` files are also published in the `release` page.
 
-## I. Install by scripts
+## I. Install by scripts :thumbsup:
 
 Just run `install.py` and choose the theme you want to install.
 
@@ -50,4 +52,4 @@ Just download the `tar.gz` file and import it in grub-customizer.
 
 > The color of icons were changed by a program written by myself which adjusts the `hue` so that they are in "red" style.
 
-If you are the owner of the images and you don't want to use them in this project, please contact me.
+If you are the owner of the images and you don't want to use them in this project, please [contact me](mailto:SiriusLLLUUU@outlook.com) and I will remove them as soon as possible.
