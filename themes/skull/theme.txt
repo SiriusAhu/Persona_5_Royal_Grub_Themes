@@ -1,0 +1,41 @@
+title-text: ""
+desktop-image: "background.png"
+terminal-left: "0"
+terminal-top: "0"
+terminal-border: "0"
+terminal-width: "100%"
+terminal-height: "100%"
+
++ boot_menu {
+  left = 12%
+  top = 20%
+  width = 33%
+  height = 62%
+  item_color = "#ECE9DB"
+  item_font = "DejaVu Sans Regular 14"
+  selected_item_font = "DejaVu Sans Bold 14"
+  selected_item_color = "#ECE9DB"
+  icon_width = 48
+  icon_height = 48
+  item_icon_space = 20
+  item_height = 64
+  item_padding = 10
+  item_spacing = 40
+  selected_item_pixmap_style = "select_*.png"
+  menu_pixmap_style = "boot_menu_*.png"
+}
+
+#progress bar
++ progress_bar {
+	id = "__timeout__"
+	left = 14%
+	top = 80%
+	height = 5%
+	width = 29%
+  font = "DejaVu Sans Bold 14"
+	text_color = "#fff"
+	fg_color = "#edc832"
+	border_color = "#000"
+	bg_color = "#000"
+	text = "Your OS will be booted in %d seconds"
+}
