@@ -1,12 +1,10 @@
 # Persona 5 Royal Grub Themes
----
 
 This is a series of Persona 5 Royal themes for grub2, which is referenced from [StarRailGrubThemes](https://github.com/voidlhf/StarRailGrubThemes) & [starfield](https://github.com/endlessm/grub/tree/master/themes/starfield). (I was motivated by the former one :wink:)
 
 ![Joker-theme](./preview/joker.png)
 
 # Installation
----
 
 You can install the themes by `scripts`, `grub-customizer` or `manually`.
 
@@ -41,7 +39,6 @@ Just download the `tar.gz` file and import it in grub-customizer.
 5. Update grub by `sudo update-grub` or `sudo grub-mkconfig -o /boot/grub/grub.cfg` (depends on your distro).
 
 # Images Source
----
 
 1. All Out Attack Images:
     - https://www.reddit.com/r/Persona5/comments/fxqgmf/p5r_clean_all_out_attack_finisher_images_ripped/
