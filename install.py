@@ -16,7 +16,7 @@ characters = {
 
 # get the path of this script
 PWD = os.path.dirname(os.path.realpath(__file__))
-PATH_THEME_SOURCE = os.path.join(PWD, "theme")
+PATH_THEME_SOURCE = os.path.join(PWD, "themes")
 PATH_THEME_TARGET = "/boot/grub/themes"
 
 def check_input(inpt):
